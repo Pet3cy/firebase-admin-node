@@ -208,7 +208,7 @@
   "dependencies": {
     "@fastify/busboy": "^3.0.0",
     "@firebase/database-compat": "^2.0.0",
-    "@firebase/database-types": "^1.0.6",
+    "@firebase/database-types": "^1.0.16",
     "@types/node": "^22.8.7",
     "farmhash-modern": "^1.1.0",
     "fast-deep-equal": "^3.1.1",
