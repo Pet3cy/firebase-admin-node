@@ -206,8 +206,8 @@
     }
   },
   "dependencies": {
-    "@fastify/busboy": "^3.2.0",
-    "@firebase/database-compat": "^2.0.0",
+    "@fastify/busboy": "^3.0.0",
+    "@firebase/database-compat": "^2.1.0",
     "@firebase/database-types": "^1.0.6",
     "@types/node": "^22.8.7",
     "farmhash-modern": "^1.1.0",
